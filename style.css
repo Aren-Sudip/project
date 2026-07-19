@@ -1,0 +1,24 @@
+
+
+.navbar{
+  display: flex ;
+justify-content: space-around;
+align-items: center;
+}
+
+.navbar__main ul{
+display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+
+}
+
+
+li{
+list-style: none;;
+}
+li>a{
+  text-decoration: none;
+  color: black;
+}
